@@ -1,6 +1,7 @@
 import java.util.Scanner;
 123345
 67890
+협업기능
 public class Main {
 
 	public static void main(String[] args) {
